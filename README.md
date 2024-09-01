@@ -4,9 +4,10 @@ Welcome to my GitHub profile! I'm an Associate Software Developer with a strong 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, HTML/CSS, jQuery, TypeScript, SQL, PHP
-- **Frameworks/Libraries:** Angular CLI, Bootstrap, Node.js, Express.js, MEAN Stack, Laravel (Basic)
-- **Tools:** Git, MySQL, MongoDB, Socket.IO, JWT
+- **Languages:** JavaScript, HTML/CSS, jQuery, TypeScript, SQL, Express.js, PHP
+- **Frameworks/Libraries:** Angular CLI, Bootstrap, Node.js, MEAN Stack, Laravel (Basic)
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Socket.IO, JWT
 
 ## 🚀 Projects
 
