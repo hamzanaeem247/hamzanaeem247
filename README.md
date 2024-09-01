@@ -37,7 +37,7 @@ Feel free to reach out if you want to discuss:
 - **Email:** hamzanaeem5455@gmail.com
 - **LinkedIn:** [linkedin.com/in/hamzanaeem247](https://linkedin.com/in/hamzanaeem247)
 - **GitHub:** [github.com/hamzanaeem247](https://github.com/hamzanaeem247)
-- **Portfolio:** [hamzanaeem247.github.io/porfolio](https://hamzanaeem247.github.io/portfolio/)
+- **Portfolio:** [hamzanaeem247.github.io/portfolio](https://hamzanaeem247.github.io/porfolio/)
 - **WhatsApp:** [+92 320 4907366](http://wa.me/923204907366)
 
 ## 📈 GitHub Stats
