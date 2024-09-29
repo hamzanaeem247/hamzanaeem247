@@ -91,7 +91,9 @@ _Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![jQuery](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jquery.svg)
+<img src="[path-to-your-image/jquery-logo.png](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jquery.svg)" alt="jQuery" width="40" height="40" />
+
+![jQuery]()
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 ![PHP](https://img.icons8.com/color/48/000000/php.png)
