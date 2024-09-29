@@ -115,11 +115,6 @@ _Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)
   <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
 </a>
 
----
-
-### 😂 Random Dev Meme  
-### 😂 Random Dev Meme
-<img src="https://api.memegen.link/images/programmer.png" alt="Random Dev Meme"/>
 
 ---
 
