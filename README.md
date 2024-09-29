@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 36px;">
+<p align="center" style="font-size: 48px; font-weight: bold;">
 👋 Hi there, I'm Hamza Naeem!
 </p>
 
