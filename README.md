@@ -1,6 +1,6 @@
-<p align="center" style="font-size: 100px; font-weight: bold;">
-<h1>👋 Hi there, I'm Hamza Naeem!</h1></p>
-![](https://github.com/hamzanaeem247/hamzanaeem247/blob/main/welcome.gif)
+#👋 Hi there, I'm Hamza Naeem!
+![](https://raw.githubusercontent.com/hamzanaeem247/hamzanaeem247/main/welcome.gif)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
