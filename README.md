@@ -29,19 +29,19 @@
 <table>
  <tr>
   <td><a href="mailto:hamzanaeem5455@gmail.com">
-    <img src="https://github.com/user-attachments/assets/cdf78883-db5f-4864-8c76-89885e169ac1" alt="Gmail" height="50">
+    <img src="https://github.com/user-attachments/assets/cdf78883-db5f-4864-8c76-89885e169ac1" alt="Gmail">
   </a></td>
   <td><a href="http://wa.me/923204907366">
-    <img src="https://github.com/user-attachments/assets/121a9aab-a49a-4ac4-91d7-3f5fe93cc402" alt="WhatsApp" height="50">
+    <img src="https://github.com/user-attachments/assets/121a9aab-a49a-4ac4-91d7-3f5fe93cc402" alt="WhatsApp">
   </a></td>
   <td><a href="https://github.com/hamzanaeem247">
-    <img src="https://github.com/user-attachments/assets/64dac5be-3356-4dae-9c4c-3774dd31d369" alt="GitHub" height="50">
+    <img src="https://github.com/user-attachments/assets/64dac5be-3356-4dae-9c4c-3774dd31d369" alt="GitHub">
   </a></td>
   <td><a href="https://linkedin.com/in/hamzanaeem247">
-    <img src="https://github.com/user-attachments/assets/b76115af-eca6-4c99-89f9-7a25962a61dc" alt="LinkedIn" height="50">
+    <img src="https://github.com/user-attachments/assets/b76115af-eca6-4c99-89f9-7a25962a61dc" alt="LinkedIn">
   </a></td>
   <td><a href="https://hamzanaeem247.github.io/porfolio/">
-    <img src="https://github.com/user-attachments/assets/928c8c53-b79f-47d5-8bfa-f97f303a83e8" alt="Portfolio" height="50">
+    <img src="https://github.com/user-attachments/assets/928c8c53-b79f-47d5-8bfa-f97f303a83e8" alt="Portfolio">
   </a></td>
 </tr>
 </table>
