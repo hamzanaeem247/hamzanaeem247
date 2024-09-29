@@ -32,7 +32,7 @@
     <img src="https://user-images.githubusercontent.com/56452820/132254868-4afe403c-0c88-4023-86c5-23ef0ec7a3f7.png" alt="Gmail" height="50">
   </a></td>
   <td><a href="http://wa.me/923204907366">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="70">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="50" style="width:150px">
   </a></td>
   <td><a href="https://github.com/hamzanaeem247">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="50">
