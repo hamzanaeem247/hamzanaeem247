@@ -104,14 +104,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
 </p>
 
-## 🏫 Education  
-**University of the Punjab, Lahore**  
-_Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)  
-**Relevant Courses:** Operating Systems, Object Oriented Programming, Data Structures and Algorithms, Networking, Database Management, Quality Assurance
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
-</p>
 
 ## 🛠️ Skills
 
@@ -139,12 +131,6 @@ _Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
 </p>
 
-### Soft Skills  
-- Leadership, Event Management, Time Management, Writing, Self-Motivation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
-</p>
 
 ### Top contributors:
 
@@ -164,6 +150,15 @@ _Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
+</p>
+
 
 
 
