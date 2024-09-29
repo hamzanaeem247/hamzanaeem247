@@ -1,6 +1,8 @@
-#👋 Hi there, I'm Hamza Naeem!
+# 👋 Hi there, I'm Hamza Naeem!
 
-![Profil](https://raw.githubusercontent.com/hamzanaeem247/hamzanaeem247/main/Profil.gif)
+<p align="center">
+![](https://raw.githubusercontent.com/hamzanaeem247/hamzanaeem247/main/Profil.gif)
+</p>
 
 
 <p align="center">
