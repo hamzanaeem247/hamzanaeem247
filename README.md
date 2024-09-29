@@ -6,7 +6,8 @@
 🌱 I’m enhancing my skills in **Node.js** and **Angular**  
 👯 I’m looking to collaborate on **JavaScript** and **Full-Stack** projects  
 💬 Ask me about **Angular, Node.js, MongoDB**, and **JavaScript**  
-⚡ _Favorite Quote:_ "Passionate about providing high-quality code and exceptional user experiences."
+⚡ _Favorite Quote:_ "The best way to predict the future is to create it."
+
 
 ### 📫 Connect with Me  
 <table>
@@ -62,12 +63,14 @@
 
 ## 🚀 Projects
 
-### PostsApp in Angular and Node  
-[Link to Demo](https://github.com/hamzanaeem247/postsapp_in_angular/)  
+
+### [PostsApp in Angular and Node](https://github.com/hamzanaeem247/postsapp_in_angular/)  
+
 - Built a full-stack application using **Angular** for frontend and **Node.js** for backend.  
 - Implemented **JWT authentication**, **bcryptjs** for secure password hashing, and **socket.io** for real-time comments and replies.
 
-### Student Teacher Portal  
+### [Student Teacher Portal](https://github.com/hamzanaeem247/portal_in_angular/ 
+
 - Designed and developed a platform for student-teacher interaction using **Angular**, **Node.js**, **Express.js**, and **MongoDB**.  
 - Integrated RESTful APIs for user management and efficient communication.
 
