@@ -1,6 +1,5 @@
 <p align="center" style="font-size: 100px; font-weight: bold;">
-**👋 Hi there, I'm Hamza Naeem!**
-</p>
+<h1>👋 Hi there, I'm Hamza Naeem!</h1></p>
 
 
 <p align="center">
