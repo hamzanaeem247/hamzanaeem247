@@ -155,4 +155,13 @@ _Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
 </p>
 
+
+### Thanks for Visiting my GitHub Profile!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
+</p>
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
