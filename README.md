@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hamza Naeem!
 <p align="center" style="font-size:24px; font-weight:bold;">
-  <span style="display: inline-block; padding: 10px 20px; background: linear-gradient(90deg, rgba(0,123,255,1) 0%, rgba(0,212,255,1) 100%); border-radius: 10px; color: white; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);">
+  <span style="display: inline-block; padding: 10px 20px; background-color: linear-gradient(90deg, rgba(0,123,255,1) 0%, rgba(0,212,255,1) 100%); border-radius: 10px; color: white; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);">
     Welcome to my GitHub Profile
   </span>
 </p>
