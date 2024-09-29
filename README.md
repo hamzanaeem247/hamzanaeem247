@@ -32,16 +32,16 @@
     <img src="https://user-images.githubusercontent.com/56452820/132254868-4afe403c-0c88-4023-86c5-23ef0ec7a3f7.png" alt="Gmail" height="47">
   </a></td>
   <td><a href="http://wa.me/923204907366">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="55">
   </a></td>
   <td><a href="https://github.com/hamzanaeem247">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="43">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="40">
   </a></td>
   <td><a href="https://linkedin.com/in/hamzanaeem247">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="47">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40">
   </a></td>
   <td><a href="https://hamzanaeem247.github.io/porfolio/">
-    <img src="https://cdn-icons-png.flaticon.com/512/6062/6062648.png" alt="Portfolio" height="47">
+    <img src="https://cdn-icons-png.flaticon.com/512/6062/6062648.png" alt="Portfolio" height="40">
   </a></td>
 </tr>
 </table>
