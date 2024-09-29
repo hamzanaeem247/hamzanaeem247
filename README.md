@@ -1,8 +1,5 @@
 # 👋 I'm [Hamza Naeem](https://hamzanaeem247.github.io/porfolio/)!
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hamzanaeem247/hamzanaeem247/main/Welcome-to-my-Profile.gif"/>
-</p>
 
 
 
