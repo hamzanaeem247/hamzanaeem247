@@ -118,8 +118,8 @@ _Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)
 ---
 
 ### 😂 Random Dev Meme  
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-<img src="https://meme-api.com/gimme" alt="Random Meme" style="height: 400px;"/>
+### 😂 Random Dev Meme
+<img src="https://api.memegen.link/images/programmer.png" alt="Random Dev Meme"/>
 
 ---
 
