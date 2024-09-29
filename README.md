@@ -98,7 +98,13 @@ _Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)
 
 
 ### Frameworks and Libraries  
-- **Angular, Bootstrap, NodeJS, Express, MEAN Stack, Laravel (Basic)**
+**![Angular](https://img.icons8.com/color/48/000000/angularjs.png)**
+**![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)**
+**![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)**
+**![Express](https://img.icons8.com/color/48/000000/express.png)**
+**![MEAN Stack](https://img.icons8.com/color/48/000000/mean.png)**
+**![Laravel](https://img.icons8.com/fluency/48/000000/laravel.png)**
+
 
 ### Soft Skills  
 - Leadership, Event Management, Time Management, Writing, Self-Motivation
