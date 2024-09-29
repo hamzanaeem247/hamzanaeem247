@@ -1,4 +1,3 @@
-
 # Hi there, I'm Hamza Naeem! 👋
 ## 💫 About Me 
 [![](https://visitcount.itsvg.in/api?id=hamza-naeem&icon=9&color=2)](https://visitcount.itsvg.in)
@@ -91,12 +90,11 @@ _Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-<img src="[path-to-your-image/jquery-logo.png](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/jquery.svg)" alt="jQuery" width="40" height="40" />
-
-![jQuery]()
+![jQuery](https://img.icons8.com/ios-filled/50/000000/jquery.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 ![PHP](https://img.icons8.com/color/48/000000/php.png)
+
 
 
 ### Frameworks and Libraries  
@@ -106,9 +104,17 @@ _Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)
 - Leadership, Event Management, Time Management, Writing, Self-Motivation
 
 ---
+### Top contributors:
+
+<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
+</a>
+
+---
 
 ### 😂 Random Dev Meme  
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src="https://meme-api.com/gimme" alt="Random Meme" style="height: 400px;"/>
 
 ---
 
