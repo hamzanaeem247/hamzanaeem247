@@ -11,8 +11,9 @@
 </p>
 
 ## 💫 About Me 
-[![](https://visitcount.itsvg.in/api?id=hamza-naeem&icon=9&color=2)](https://visitcount.itsvg.in)
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=hamzanaeem247&label=Profile%20Views&pretty=true" />
+</a>
 🔭 I’m currently working as an **Associate Software Developer**  
 🌱 I’m enhancing my skills in **Node.js** and **Angular**  
 👯 I’m looking to collaborate on **JavaScript** and **Full-Stack** projects  
