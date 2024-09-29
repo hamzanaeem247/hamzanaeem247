@@ -70,7 +70,7 @@
 - Built a full-stack application using **Angular** for frontend and **Node.js** for backend.  
 - Implemented **JWT authentication**, **bcryptjs** for secure password hashing, and **socket.io** for real-time comments and replies.
 
-### [Student Teacher Portal](https://github.com/hamzanaeem247/portal_in_angular/ 
+### [Student Teacher Portal](https://github.com/hamzanaeem247/portal_in_angular/)
 
 - Designed and developed a platform for student-teacher interaction using **Angular**, **Node.js**, **Express.js**, and **MongoDB**.  
 - Integrated RESTful APIs for user management and efficient communication.
@@ -87,13 +87,15 @@ _Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)
 ## 🛠️ Skills
 
 ### Programming Languages  
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![jQuery](https://img.icons8.com/color/48/000000/jquery.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![jQuery](https://img.icons8.com/color/48/000000/jquery.svg) <!-- Updated jQuery icon -->
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 ![PHP](https://img.icons8.com/color/48/000000/php.png)
+
 
 ### Frameworks and Libraries  
 - **Angular, Bootstrap, NodeJS, Express, MEAN Stack, Laravel (Basic)**
