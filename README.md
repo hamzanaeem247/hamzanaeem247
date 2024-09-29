@@ -90,7 +90,6 @@ _Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![jQuery](https://img.icons8.com/ios-filled/45/000000/jquery.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 ![PHP](https://img.icons8.com/color/48/000000/php.png)
@@ -100,9 +99,9 @@ _Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)
 ### Frameworks and Libraries  
 **![Angular](https://img.icons8.com/color/48/000000/angularjs.png)**
 **![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)**
+**![jQuery](https://img.icons8.com/ios-filled/45/000000/jquery.png)**
 **![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)**
 **![Express](https://img.icons8.com/color/48/000000/express.png)**
-**![MEAN Stack](https://img.icons8.com/color/48/000000/mean.png)**
 **![Laravel](https://img.icons8.com/fluency/48/000000/laravel.png)**
 
 
