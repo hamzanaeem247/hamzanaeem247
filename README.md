@@ -1,9 +1,6 @@
 # 👋 Hi there, I'm Hamza Naeem!
-<p align="center" style="font-size:24px; font-weight:bold;">
-  <span style="display: inline-block; padding: 10px 20px; background-color: linear-gradient(90deg, rgba(0,123,255,1) 0%, rgba(0,212,255,1) 100%); border-radius: 10px; color: white; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);">
-    Welcome to my GitHub Profile
-  </span>
-</p>
+
+![Welcome to my GitHub Profile](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
