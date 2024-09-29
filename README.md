@@ -1,4 +1,7 @@
 # Hi there, I'm Hamza Naeem! 👋
+
+---
+
 ## 💫 About Me 
 [![](https://visitcount.itsvg.in/api?id=hamza-naeem&icon=9&color=2)](https://visitcount.itsvg.in)
 
