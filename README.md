@@ -1,5 +1,5 @@
-<p align="center" style="font-size: 48px; font-weight: bold;">
-👋 Hi there, I'm Hamza Naeem!
+<p align="center" style="font-size: 100px; font-weight: bold;">
+**👋 Hi there, I'm Hamza Naeem!**
 </p>
 
 
