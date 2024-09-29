@@ -164,9 +164,6 @@
 
 ### Thanks for Visiting my GitHub Profile!
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
-</p>
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=hamzanaeem247&label=Profile%20Views&pretty=true" />
