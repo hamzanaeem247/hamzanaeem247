@@ -1,5 +1,8 @@
 # 👋 Hi there, I'm Hamza Naeem!
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
+</p>
 ---
 
 ## 💫 About Me 
