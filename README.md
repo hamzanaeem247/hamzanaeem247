@@ -125,7 +125,7 @@ _Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)
 ### Frameworks and Libraries  
 **![Angular](https://img.icons8.com/color/48/000000/angularjs.png)**
 **![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)**
-**![jQuery](https://img.icons8.com/ios-filled/45/000000/jquery.png)**
+**![jQuery](https://img.icons8.com/ios-filled/40/000000/jquery.png)**
 **![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)**
 **![Express](https://img.icons8.com/color/48/000000/express.png)**
 **![Laravel](https://img.icons8.com/fluency/48/000000/laravel.png)**
