@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
 </p>
----
 
 ## 💫 About Me 
 [![](https://visitcount.itsvg.in/api?id=hamza-naeem&icon=9&color=2)](https://visitcount.itsvg.in)
@@ -14,6 +13,9 @@
 💬 Ask me about **Angular, Node.js, MongoDB**, and **JavaScript**  
 ⚡ _Favorite Quote:_ "The best way to predict the future is to create it."
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
+</p>
 
 ### 📫 Connect with Me  
 <table>
@@ -36,7 +38,9 @@
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
+</p>
 
 # 💻 Tech Stack
 
@@ -49,7 +53,9 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
+</p>
 
 # 📊 GitHub Stats:
 
@@ -57,7 +63,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=hamzanaeem247&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamzanaeem247&theme=shades-of-purple&hide_border=false)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
+</p>
 
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=hamzanaeem247&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -65,7 +73,9 @@
 ### 🔝 Top Contributed Repos  
 ![](https://github-contributor-stats.vercel.app/api?username=hamzanaeem247&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
+</p>
 
 ## 🚀 Projects
 
@@ -80,14 +90,18 @@
 - Designed and developed a platform for student-teacher interaction using **Angular**, **Node.js**, **Express.js**, and **MongoDB**.  
 - Integrated RESTful APIs for user management and efficient communication.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
+</p>
 
 ## 🏫 Education  
 **University of the Punjab, Lahore**  
 _Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)  
 **Relevant Courses:** Operating Systems, Object Oriented Programming, Data Structures and Algorithms, Networking, Database Management, Quality Assurance
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
+</p>
 
 ## 🛠️ Skills
 
@@ -111,10 +125,17 @@ _Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)
 **![Laravel](https://img.icons8.com/fluency/48/000000/laravel.png)**
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
+</p>
+
 ### Soft Skills  
 - Leadership, Event Management, Time Management, Writing, Self-Motivation
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
+</p>
+
 ### Top contributors:
 
 <a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
@@ -122,6 +143,8 @@ _Bachelors of Science in Information Technology_ (July 2019 - Nov 2023)
 </a>
 
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
