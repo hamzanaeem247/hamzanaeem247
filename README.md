@@ -143,6 +143,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Stylish Line" width="100%" />
 </p>
 
+### 🔥 Fun Streak
 <p align="center">
   <img src="https://raw.githubusercontent.com/hamzanaeem247/hamzanaeem247/main/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake">
 </p>
@@ -152,7 +153,9 @@
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="100%" />
+</p>
 
 
 <p align="center">
